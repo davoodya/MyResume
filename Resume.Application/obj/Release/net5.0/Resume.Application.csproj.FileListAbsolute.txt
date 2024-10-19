@@ -1,0 +1,17 @@
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Application.deps.json
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Application.dll
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Application.pdb
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Domain.dll
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Infra.Data.dll
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Domain.pdb
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\bin\Release\net5.0\Resume.Infra.Data.pdb
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.csproj.AssemblyReference.cache
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.AssemblyInfoInputs.cache
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.AssemblyInfo.cs
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.csproj.CopyComplete
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.dll
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\refint\Resume.Application.dll
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\Resume.Application.pdb
+H:\My_Projects\01_MyApplication\netCore\Resume\Resume\Resume.Application\obj\Release\net5.0\ref\Resume.Application.dll
